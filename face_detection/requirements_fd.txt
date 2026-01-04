@@ -1,0 +1,6 @@
+Python=3.11.4
+onnxruntime=1.16.3
+insightface=0.7.3
+streamlit=1.52.1
+json=2.0.9
+cv2=4.10.0

@@ -1,0 +1,22 @@
+# Virtual environments
+**/env/
+**/env_emo/
+
+frame_resource/
+emotion_recognition/fer2013
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.onnx
+*.jpg
+*.png
+**.h5
+
+# IDEs
+.vscode/
+.idea/
+
+
